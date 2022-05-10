@@ -1,18 +1,18 @@
 {
-    "name": "@testcomplete/sleep",
-    "version": "0.1.1",
-    "description": "A simple function which delays execution.",
-    "main": "LoggerUtil.js",
+    "name": "@testcomplete/testcompletelibrarysetup",
+    "version": "0.1.0",
+    "description": "How To guide to add script to your project",
+    "main": "dummy.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "TestComplete",
         "Automation",
-        "Function",
-        "Sleep",
-        "Wait",
-        "Delay"
+        "Documentation",
+        "Library",
+        "Setup",
+        "Dependencies"
     ],
     "author": "Nicolas DUPRE",
     "license": "ISC"

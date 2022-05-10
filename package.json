@@ -1,0 +1,19 @@
+{
+    "name": "@testcomplete/sleep",
+    "version": "0.1.1",
+    "description": "A simple function which delays execution.",
+    "main": "LoggerUtil.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "TestComplete",
+        "Automation",
+        "Function",
+        "Sleep",
+        "Wait",
+        "Delay"
+    ],
+    "author": "Nicolas DUPRE",
+    "license": "ISC"
+}

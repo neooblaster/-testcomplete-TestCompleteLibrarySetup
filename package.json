@@ -15,5 +15,16 @@
         "Dependencies"
     ],
     "author": "Nicolas DUPRE",
-    "license": "ISC"
+    "license": "ISC",
+    "directories": {
+        "doc": "docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neooblaster/-testcomplete-TestCompleteLibrarySetup.git"
+    },
+    "bugs": {
+        "url": "https://github.com/neooblaster/-testcomplete-TestCompleteLibrarySetup/issues"
+    },
+    "homepage": "https://github.com/neooblaster/-testcomplete-TestCompleteLibrarySetup#readme"
 }
